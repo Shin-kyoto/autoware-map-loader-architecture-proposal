@@ -1,0 +1,1 @@
+PointCloudMapMetaData[] pointcloud_map_metadata
