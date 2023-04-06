@@ -1,1 +1,1 @@
-PointCloudMapMetaData[] pointcloud_map_metadata
+PointCloudMapMetaData[] pointcloud_map_metadata_array

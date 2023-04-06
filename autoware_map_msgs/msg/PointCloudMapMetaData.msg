@@ -1,5 +1,6 @@
-string id
-float x_resolution
-float y_resolution
-float x_min
-float y_min
+# Pointcloud metadata with ID
+string cell_id
+float32 min_x
+float32 min_y
+float32 max_x
+float32 max_y
